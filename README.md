@@ -21,12 +21,12 @@ This project provisions an AWS EC2 instance using Terraform, installs Docker aut
 ## Architecture
 
 User Browser  
-↓
+↓  
 AWS EC2 Instance  
-↓
+↓  
 Docker Container  
-↓
-Nginx Web Server  
+↓  
+Nginx Web Server
 
 ## Usage
 
